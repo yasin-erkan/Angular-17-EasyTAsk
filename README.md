@@ -4,7 +4,7 @@ A modern task management application showcasing Angular 17's latest features and
 
 ## 🎥 Preview
 
-![App Preview](src/assets/Angular-17_easy_Task.mp4)
+![App Preview](src/assets/Angular-17_easy_Task.gif)
 
 ## ✨ Features
 
