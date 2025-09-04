@@ -2,7 +2,10 @@
 
 A modern task management application showcasing Angular 17's latest features and best practices.
 
-![Task Management App](src/assets/task-management-logo.png)
+
+## 🎥 Preview
+
+![App Preview](https://github.com/yasin-erkan/Angular-17-EasyTAsk/raw/main/Angular-17_easy_Task.mp4)
 
 ## ✨ Features
 
